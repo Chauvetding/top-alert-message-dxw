@@ -10,7 +10,9 @@ https://github.com/Chauvetding/top-alert-message-dxw.git
 
 # usage
 
-```import { Message } from 'top-alert-message-dxw'
+```javascript
+import { Message } from 'top-alert-message-dxw'
 Message.success("示例")
 Message.warning("示例")
-Message.error("示例")```
+Message.error("示例")
+```
