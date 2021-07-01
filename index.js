@@ -71,5 +71,4 @@ TopAlert.getInstance = (function () {
     return instance
   }
 })()
-const Message = TopAlert.getInstance()
-module.exports = Message
+export const Message = TopAlert.getInstance()
